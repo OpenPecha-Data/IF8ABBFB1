@@ -1,0 +1,711 @@
+id: IF8ABBFB1
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-31T16:26:42+00:00'
+last_modified: '2022-06-08T12:25:12.169719+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W3CN2232
+  title: འབྲུག་པའི་ཆོས་མཛོད་ཆེན་པོ་བསམ་འཕེལ་ནོར་བུའི་བང་མཛོད།
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
+  base:
+    18EC:
+      image_group_id: I3CN2235
+      title: ''
+      total_pages: 624
+      order: 1
+      base_file: 18EC.txt
+    9EF0:
+      image_group_id: I3CN2236
+      title: ''
+      total_pages: 626
+      order: 2
+      base_file: 9EF0.txt
+    99A9:
+      image_group_id: I3CN2237
+      title: ''
+      total_pages: 649
+      order: 3
+      base_file: 99A9.txt
+    6EEE:
+      image_group_id: I3CN2238
+      title: ''
+      total_pages: 843
+      order: 4
+      base_file: 6EEE.txt
+    1D4E:
+      image_group_id: I3CN2239
+      title: ''
+      total_pages: 681
+      order: 5
+      base_file: 1D4E.txt
+    70FA:
+      image_group_id: I3CN2240
+      title: ''
+      total_pages: 584
+      order: 6
+      base_file: 70FA.txt
+    49F9:
+      image_group_id: I3CN2241
+      title: ''
+      total_pages: 726
+      order: 7
+      base_file: 49F9.txt
+    4A53:
+      image_group_id: I3CN2242
+      title: ''
+      total_pages: 664
+      order: 8
+      base_file: 4A53.txt
+    20AD:
+      image_group_id: I3CN2243
+      title: ''
+      total_pages: 674
+      order: 9
+      base_file: 20AD.txt
+    '8774':
+      image_group_id: I3CN2244
+      title: ''
+      total_pages: 648
+      order: 10
+      base_file: 8774.txt
+    A668:
+      image_group_id: I3CN2245
+      title: ''
+      total_pages: 606
+      order: 11
+      base_file: A668.txt
+    5FFF:
+      image_group_id: I3CN2246
+      title: ''
+      total_pages: 600
+      order: 12
+      base_file: 5FFF.txt
+    B800:
+      image_group_id: I3CN2247
+      title: ''
+      total_pages: 630
+      order: 13
+      base_file: B800.txt
+    D900:
+      image_group_id: I3CN2248
+      title: ''
+      total_pages: 602
+      order: 14
+      base_file: D900.txt
+    37BD:
+      image_group_id: I3CN2249
+      title: ''
+      total_pages: 604
+      order: 15
+      base_file: 37BD.txt
+    '5227':
+      image_group_id: I3CN2250
+      title: ''
+      total_pages: 670
+      order: 16
+      base_file: 5227.txt
+    FE7F:
+      image_group_id: I3CN2251
+      title: ''
+      total_pages: 604
+      order: 17
+      base_file: FE7F.txt
+    AB04:
+      image_group_id: I3CN2252
+      title: ''
+      total_pages: 603
+      order: 18
+      base_file: AB04.txt
+    '9674':
+      image_group_id: I3CN2253
+      title: ''
+      total_pages: 608
+      order: 19
+      base_file: 9674.txt
+    0AAD:
+      image_group_id: I3CN2254
+      title: ''
+      total_pages: 584
+      order: 20
+      base_file: 0AAD.txt
+    2F29:
+      image_group_id: I3CN2255
+      title: ''
+      total_pages: 576
+      order: 21
+      base_file: 2F29.txt
+    E74C:
+      image_group_id: I3CN2256
+      title: ''
+      total_pages: 546
+      order: 22
+      base_file: E74C.txt
+    28DD:
+      image_group_id: I3CN2257
+      title: ''
+      total_pages: 646
+      order: 23
+      base_file: 28DD.txt
+    4BBE:
+      image_group_id: I3CN2258
+      title: ''
+      total_pages: 638
+      order: 24
+      base_file: 4BBE.txt
+    2D75:
+      image_group_id: I3CN2259
+      title: ''
+      total_pages: 596
+      order: 25
+      base_file: 2D75.txt
+    49AE:
+      image_group_id: I3CN2260
+      title: ''
+      total_pages: 545
+      order: 26
+      base_file: 49AE.txt
+    BAB6:
+      image_group_id: I3CN2261
+      title: ''
+      total_pages: 613
+      order: 27
+      base_file: BAB6.txt
+    4F9E:
+      image_group_id: I3CN2262
+      title: ''
+      total_pages: 543
+      order: 28
+      base_file: 4F9E.txt
+    '7665':
+      image_group_id: I3CN2263
+      title: ''
+      total_pages: 512
+      order: 29
+      base_file: 7665.txt
+    2ED8:
+      image_group_id: I3CN2264
+      title: ''
+      total_pages: 616
+      order: 30
+      base_file: 2ED8.txt
+    5B70:
+      image_group_id: I3CN2265
+      title: ''
+      total_pages: 570
+      order: 31
+      base_file: 5B70.txt
+    F2F4:
+      image_group_id: I3CN2266
+      title: ''
+      total_pages: 568
+      order: 32
+      base_file: F2F4.txt
+    '5386':
+      image_group_id: I3CN2267
+      title: ''
+      total_pages: 644
+      order: 33
+      base_file: 5386.txt
+    2D08:
+      image_group_id: I3CN2268
+      title: ''
+      total_pages: 730
+      order: 34
+      base_file: 2D08.txt
+    599B:
+      image_group_id: I3CN2269
+      title: ''
+      total_pages: 660
+      order: 35
+      base_file: 599B.txt
+    16B7:
+      image_group_id: I3CN2270
+      title: ''
+      total_pages: 594
+      order: 36
+      base_file: 16B7.txt
+    3D5A:
+      image_group_id: I3CN2271
+      title: ''
+      total_pages: 656
+      order: 37
+      base_file: 3D5A.txt
+    42D7:
+      image_group_id: I3CN2272
+      title: ''
+      total_pages: 586
+      order: 38
+      base_file: 42D7.txt
+    D975:
+      image_group_id: I3CN2273
+      title: ''
+      total_pages: 592
+      order: 39
+      base_file: D975.txt
+    EF8E:
+      image_group_id: I3CN2274
+      title: ''
+      total_pages: 570
+      order: 40
+      base_file: EF8E.txt
+    8A87:
+      image_group_id: I3CN2275
+      title: ''
+      total_pages: 582
+      order: 41
+      base_file: 8A87.txt
+    E431:
+      image_group_id: I3CN2276
+      title: ''
+      total_pages: 484
+      order: 42
+      base_file: E431.txt
+    3B3C:
+      image_group_id: I3CN2277
+      title: ''
+      total_pages: 454
+      order: 43
+      base_file: 3B3C.txt
+    4ABD:
+      image_group_id: I3CN2278
+      title: ''
+      total_pages: 790
+      order: 44
+      base_file: 4ABD.txt
+    03E3:
+      image_group_id: I3CN2279
+      title: ''
+      total_pages: 592
+      order: 45
+      base_file: 03E3.txt
+    0E48:
+      image_group_id: I3CN2350
+      title: ''
+      total_pages: 594
+      order: 116
+      base_file: 0E48.txt
+    AC3D:
+      image_group_id: I3CN2281
+      title: ''
+      total_pages: 550
+      order: 47
+      base_file: AC3D.txt
+    775F:
+      image_group_id: I3CN2282
+      title: ''
+      total_pages: 494
+      order: 48
+      base_file: 775F.txt
+    '3260':
+      image_group_id: I3CN2283
+      title: ''
+      total_pages: 814
+      order: 49
+      base_file: 3260.txt
+    21A4:
+      image_group_id: I3CN2284
+      title: ''
+      total_pages: 510
+      order: 50
+      base_file: 21A4.txt
+    5D61:
+      image_group_id: I3CN2285
+      title: ''
+      total_pages: 526
+      order: 51
+      base_file: 5D61.txt
+    C429:
+      image_group_id: I3CN2286
+      title: ''
+      total_pages: 636
+      order: 52
+      base_file: C429.txt
+    7FFF:
+      image_group_id: I3CN2287
+      title: ''
+      total_pages: 602
+      order: 53
+      base_file: 7FFF.txt
+    EC4C:
+      image_group_id: I3CN2288
+      title: ''
+      total_pages: 700
+      order: 54
+      base_file: EC4C.txt
+    8F5D:
+      image_group_id: I3CN2289
+      title: ''
+      total_pages: 620
+      order: 55
+      base_file: 8F5D.txt
+    '4134':
+      image_group_id: I3CN2290
+      title: ''
+      total_pages: 616
+      order: 56
+      base_file: 4134.txt
+    C830:
+      image_group_id: I3CN2291
+      title: ''
+      total_pages: 682
+      order: 57
+      base_file: C830.txt
+    EABB:
+      image_group_id: I3CN2292
+      title: ''
+      total_pages: 672
+      order: 58
+      base_file: EABB.txt
+    '2288':
+      image_group_id: I3CN2293
+      title: ''
+      total_pages: 676
+      order: 59
+      base_file: 2288.txt
+    '8253':
+      image_group_id: I3CN2294
+      title: ''
+      total_pages: 620
+      order: 60
+      base_file: 8253.txt
+    C884:
+      image_group_id: I3CN2295
+      title: ''
+      total_pages: 932
+      order: 61
+      base_file: C884.txt
+    9F0F:
+      image_group_id: I3CN2296
+      title: ''
+      total_pages: 872
+      order: 62
+      base_file: 9F0F.txt
+    0AF8:
+      image_group_id: I3CN2297
+      title: ''
+      total_pages: 494
+      order: 63
+      base_file: 0AF8.txt
+    '4568':
+      image_group_id: I3CN2298
+      title: ''
+      total_pages: 626
+      order: 64
+      base_file: 4568.txt
+    000E:
+      image_group_id: I3CN2299
+      title: ''
+      total_pages: 654
+      order: 65
+      base_file: 000E.txt
+    CE2C:
+      image_group_id: I3CN2300
+      title: ''
+      total_pages: 624
+      order: 66
+      base_file: CE2C.txt
+    C66E:
+      image_group_id: I3CN2301
+      title: ''
+      total_pages: 630
+      order: 67
+      base_file: C66E.txt
+    ED98:
+      image_group_id: I3CN2302
+      title: ''
+      total_pages: 666
+      order: 68
+      base_file: ED98.txt
+    EFCF:
+      image_group_id: I3CN2303
+      title: ''
+      total_pages: 612
+      order: 69
+      base_file: EFCF.txt
+    88F2:
+      image_group_id: I3CN2304
+      title: ''
+      total_pages: 672
+      order: 70
+      base_file: 88F2.txt
+    021C:
+      image_group_id: I3CN2305
+      title: ''
+      total_pages: 606
+      order: 71
+      base_file: 021C.txt
+    333F:
+      image_group_id: I3CN2306
+      title: ''
+      total_pages: 512
+      order: 72
+      base_file: 333F.txt
+    B883:
+      image_group_id: I3CN2307
+      title: ''
+      total_pages: 640
+      order: 73
+      base_file: B883.txt
+    '7001':
+      image_group_id: I3CN2308
+      title: ''
+      total_pages: 632
+      order: 74
+      base_file: 7001.txt
+    CA11:
+      image_group_id: I3CN2309
+      title: ''
+      total_pages: 604
+      order: 75
+      base_file: CA11.txt
+    ABD6:
+      image_group_id: I3CN2310
+      title: ''
+      total_pages: 428
+      order: 76
+      base_file: ABD6.txt
+    8D8B:
+      image_group_id: I3CN2311
+      title: ''
+      total_pages: 450
+      order: 77
+      base_file: 8D8B.txt
+    AC57:
+      image_group_id: I3CN2312
+      title: ''
+      total_pages: 570
+      order: 78
+      base_file: AC57.txt
+    C77A:
+      image_group_id: I3CN2313
+      title: ''
+      total_pages: 636
+      order: 79
+      base_file: C77A.txt
+    50D0:
+      image_group_id: I3CN2314
+      title: ''
+      total_pages: 606
+      order: 80
+      base_file: 50D0.txt
+    99E1:
+      image_group_id: I3CN2315
+      title: ''
+      total_pages: 586
+      order: 81
+      base_file: 99E1.txt
+    B431:
+      image_group_id: I3CN2316
+      title: ''
+      total_pages: 664
+      order: 82
+      base_file: B431.txt
+    F88D:
+      image_group_id: I3CN2317
+      title: ''
+      total_pages: 616
+      order: 83
+      base_file: F88D.txt
+    '2700':
+      image_group_id: I3CN2318
+      title: ''
+      total_pages: 622
+      order: 84
+      base_file: 2700.txt
+    D2AE:
+      image_group_id: I3CN2319
+      title: ''
+      total_pages: 600
+      order: 85
+      base_file: D2AE.txt
+    955A:
+      image_group_id: I3CN2320
+      title: ''
+      total_pages: 644
+      order: 86
+      base_file: 955A.txt
+    F125:
+      image_group_id: I3CN2321
+      title: ''
+      total_pages: 646
+      order: 87
+      base_file: F125.txt
+    1E8B:
+      image_group_id: I3CN2322
+      title: ''
+      total_pages: 553
+      order: 88
+      base_file: 1E8B.txt
+    85FB:
+      image_group_id: I3CN2323
+      title: ''
+      total_pages: 451
+      order: 89
+      base_file: 85FB.txt
+    4E7C:
+      image_group_id: I3CN2324
+      title: ''
+      total_pages: 678
+      order: 90
+      base_file: 4E7C.txt
+    B34B:
+      image_group_id: I3CN2325
+      title: ''
+      total_pages: 637
+      order: 91
+      base_file: B34B.txt
+    44E4:
+      image_group_id: I3CN2326
+      title: ''
+      total_pages: 679
+      order: 92
+      base_file: 44E4.txt
+    6CDF:
+      image_group_id: I3CN2327
+      title: ''
+      total_pages: 658
+      order: 93
+      base_file: 6CDF.txt
+    '8451':
+      image_group_id: I3CN2328
+      title: ''
+      total_pages: 528
+      order: 94
+      base_file: 8451.txt
+    FFCD:
+      image_group_id: I3CN2329
+      title: ''
+      total_pages: 580
+      order: 95
+      base_file: FFCD.txt
+    CE73:
+      image_group_id: I3CN2330
+      title: ''
+      total_pages: 513
+      order: 96
+      base_file: CE73.txt
+    88FF:
+      image_group_id: I3CN2331
+      title: ''
+      total_pages: 434
+      order: 97
+      base_file: 88FF.txt
+    1A51:
+      image_group_id: I3CN2332
+      title: ''
+      total_pages: 493
+      order: 98
+      base_file: 1A51.txt
+    D9BB:
+      image_group_id: I3CN2333
+      title: ''
+      total_pages: 777
+      order: 99
+      base_file: D9BB.txt
+    D320:
+      image_group_id: I3CN2334
+      title: ''
+      total_pages: 565
+      order: 100
+      base_file: D320.txt
+    AA8C:
+      image_group_id: I3CN2335
+      title: ''
+      total_pages: 1093
+      order: 101
+      base_file: AA8C.txt
+    9AD9:
+      image_group_id: I3CN2336
+      title: ''
+      total_pages: 560
+      order: 102
+      base_file: 9AD9.txt
+    2FE3:
+      image_group_id: I3CN2337
+      title: ''
+      total_pages: 620
+      order: 103
+      base_file: 2FE3.txt
+    E403:
+      image_group_id: I3CN2338
+      title: ''
+      total_pages: 709
+      order: 104
+      base_file: E403.txt
+    991F:
+      image_group_id: I3CN2339
+      title: ''
+      total_pages: 603
+      order: 105
+      base_file: 991F.txt
+    '4414':
+      image_group_id: I3CN2340
+      title: ''
+      total_pages: 838
+      order: 106
+      base_file: 4414.txt
+    4CA9:
+      image_group_id: I3CN2341
+      title: ''
+      total_pages: 660
+      order: 107
+      base_file: 4CA9.txt
+    DDAD:
+      image_group_id: I3CN2342
+      title: ''
+      total_pages: 556
+      order: 108
+      base_file: DDAD.txt
+    C543:
+      image_group_id: I3CN2343
+      title: ''
+      total_pages: 640
+      order: 109
+      base_file: C543.txt
+    A969:
+      image_group_id: I3CN2344
+      title: ''
+      total_pages: 675
+      order: 110
+      base_file: A969.txt
+    724A:
+      image_group_id: I3CN2345
+      title: ''
+      total_pages: 646
+      order: 111
+      base_file: 724A.txt
+    4F7B:
+      image_group_id: I3CN2346
+      title: ''
+      total_pages: 715
+      order: 112
+      base_file: 4F7B.txt
+    7EB6:
+      image_group_id: I3CN2347
+      title: ''
+      total_pages: 518
+      order: 113
+      base_file: 7EB6.txt
+    D8C1:
+      image_group_id: I3CN2348
+      title: ''
+      total_pages: 969
+      order: 114
+      base_file: D8C1.txt
+    61D0:
+      image_group_id: I3CN2349
+      title: ''
+      total_pages: 391
+      order: 115
+      base_file: 61D0.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
